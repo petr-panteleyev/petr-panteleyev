@@ -1,16 +1,86 @@
-## Hi there 👋
+# Projects
 
-<!--
-**petr-panteleyev/petr-panteleyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr><th colspan="4">Applications</th></tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/password-manager">password-manager</a></td>
+    <td>Password Manager</td>
+    <td><img src="https://www.panteleyev.ru/badges/java-25.svg" alt="Java 25"/></td>
+    <td><img src="https://www.panteleyev.ru/badges/javafx-25.svg" alt="JavaFX 25"/></td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/sapper">sapper</a></td>
+    <td>Sapper</td>
+    <td><img src="https://www.panteleyev.ru/badges/java-25.svg" alt="Java 25"/></td>
+    <td><img src="https://www.panteleyev.ru/badges/javafx-25.svg" alt="JavaFX 25"/></td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/mk61">mk61</a></td>
+    <td>МК-61 emulator</td>
+    <td><img src="https://www.panteleyev.org/badges/java-25.svg" alt="Java 25"/></td>
+    <td><img src="https://www.panteleyev.org/badges/javafx-25.svg" alt="JavaFX 25"/></td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/mk52">mk52</a></td>
+    <td>МК-52 simulator</td>
+    <td><img src="https://www.panteleyev.org/badges/java-25.svg" alt="Java 25"/></td>
+    <td><img src="https://www.panteleyev.org/badges/javafx-25.svg" alt="JavaFX 25"/></td>
+</tr>
+<tr><th colspan="4">Plugins</th></tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/jpackage-maven-plugin">JPackage Maven Plugin</a></td>
+    <td>&nbsp;</td>
+    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/jlink-maven-plugin">JLink Maven Plugin</a></td>
+    <td>&nbsp;</td>
+    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td> <a href="https://gitflic.ru/project/petr-panteleyev/jpackage-gradle-plugin">JPackage Gradle Plugin</a></td>
+    <td>&nbsp;</td>
+    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td> <a href="https://gitflic.ru/project/petr-panteleyev/jlink-gradle-plugin">JLink Gradle Plugin</a></td>
+    <td>&nbsp;</td>
+    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td> <a href="https://gitflic.ru/project/petr-panteleyev/javafx-gradle-plugin">JavaFX Gradle Plugin</a></td>
+    <td>&nbsp;</td>
+    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr><th colspan="4">Libraries</th></tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/java-freedesktop/">java-freedesktop</a></td>
+    <td>API to use some of <a href="https://www.freedesktop.org">freedesktop.org</a> specifications</td>
+    <td><img src="https://www.panteleyev.org/badges/java-21.svg" alt="Java 21"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/java-fx-helpers/">java-fx-helpers</a></td>
+    <td>JavaFX convenience API</td>
+    <td><img src="https://www.panteleyev.org/badges/java-25.svg" alt="Java 25"/></td>
+    <td><img src="https://www.panteleyev.org/badges/javafx-25.svg" alt="JavaFX 25"/></td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/java-commons">java-commons</a></td>
+    <td>Common APIs</td>
+    <td><img src="https://www.panteleyev.org/badges/java-21.svg" alt="Java 21"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/java-xmlrpc">java-xmlrpc</a></td>
+    <td>XMLRPC Client API</td>
+    <td><img src="https://www.panteleyev.org/badges/java-21.svg" alt="Java 21"/></td>
+    <td>&nbsp;</td>
+</tr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
