@@ -81,5 +81,12 @@
     <td><img src="https://www.panteleyev.org/badges/java-21.svg" alt="Java 21"/></td>
     <td>&nbsp;</td>
 </tr>
+<tr><th colspan="4">Misc</th></tr>
+<tr>
+    <td><a href="https://github.com/petr-panteleyev/cpp">cpp</a></td>
+    <td>C++ monorepo</td>
+    <td><img src="https://www.panteleyev.org/badges/cpp-20.svg" alt="C++ 20"/></td>
+    <td><img src="https://www.panteleyev.org/badges/qt-6.9.svg" alt="Qt 6.9"/></td>
+</tr>
 
 </table>
