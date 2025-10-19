@@ -1,5 +1,3 @@
-# Projects
-
 <table>
 <tr><th colspan="4">Applications</th></tr>
 <tr>
