@@ -26,33 +26,34 @@
     <td><img src="https://www.panteleyev.org/badges/java-25.svg" alt="Java 25"/></td>
     <td><img src="https://www.panteleyev.org/badges/javafx-25.svg" alt="JavaFX 25"/></td>
 </tr>
-<tr><th colspan="4">Plugins</th></tr>
+<tr><th colspan="4">Maven Plugins</th></tr>
 <tr>
-    <td><a href="https://gitflic.ru/project/petr-panteleyev/jpackage-maven-plugin">JPackage Maven Plugin</a></td>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/jpackage-maven-plugin">jpackage-maven-plugin</a></td>
     <td>&nbsp;</td>
     <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
-    <td><a href="https://gitflic.ru/project/petr-panteleyev/jlink-maven-plugin">JLink Maven Plugin</a></td>
+    <td><a href="https://gitflic.ru/project/petr-panteleyev/jlink-maven-plugin">jlink-maven-plugin</a></td>
+    <td>&nbsp;</td>
+    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
+    <td>&nbsp;</td>
+</tr>
+<tr><th colspan="4">Gradle Plugins</th></tr>
+<tr>
+    <td> <a href="https://gitflic.ru/project/petr-panteleyev/jpackage-gradle-plugin">jpackage-gradle-plugin</a></td>
     <td>&nbsp;</td>
     <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
-    <td> <a href="https://gitflic.ru/project/petr-panteleyev/jpackage-gradle-plugin">JPackage Gradle Plugin</a></td>
+    <td> <a href="https://gitflic.ru/project/petr-panteleyev/jlink-gradle-plugin">jlink-gradle-plugin</a></td>
     <td>&nbsp;</td>
     <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
-    <td> <a href="https://gitflic.ru/project/petr-panteleyev/jlink-gradle-plugin">JLink Gradle Plugin</a></td>
-    <td>&nbsp;</td>
-    <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
-    <td>&nbsp;</td>
-</tr>
-<tr>
-    <td> <a href="https://gitflic.ru/project/petr-panteleyev/javafx-gradle-plugin">JavaFX Gradle Plugin</a></td>
+    <td> <a href="https://gitflic.ru/project/petr-panteleyev/javafx-gradle-plugin">javafx-gradle-plugin</a></td>
     <td>&nbsp;</td>
     <td><img src="https://www.panteleyev.org/badges/java-8.svg" alt="Java 8"/></td>
     <td>&nbsp;</td>
