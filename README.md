@@ -62,7 +62,7 @@
 <tr>
     <td><a href="https://github.com/petr-panteleyev/java-freedesktop/">java-freedesktop</a></td>
     <td>API to use some of <a href="https://www.freedesktop.org">freedesktop.org</a> specifications</td>
-    <td><img src="https://www.panteleyev.org/badges/java-21.svg" alt="Java 21"/></td>
+    <td><img src="https://www.panteleyev.org/badges/java-17.svg" alt="Java 17"/></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
